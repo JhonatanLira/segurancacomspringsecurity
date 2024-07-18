@@ -10,5 +10,5 @@ public class DioSpringSecurityApplication {
 		SpringApplication.run(DioSpringSecurityApplication.class, args);
 	}
 
-	
+
 }
