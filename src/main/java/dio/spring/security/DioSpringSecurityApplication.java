@@ -10,5 +10,7 @@ public class DioSpringSecurityApplication {
 		SpringApplication.run(DioSpringSecurityApplication.class, args);
 	}
 
+	//https://github.com/digitalinnovationone/dio-springboot/tree/main/dio-spring-data-jpa
+
 
 }
